@@ -1,0 +1,39 @@
+_repo: English-Esperanto-Dictionary_16967
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: O'Connor, J. C. (John Charles)
+    alias: O'Connor, John Charles
+    birthdate: 1853
+    deathdate: 1928
+    gutenberg_agent_id: '7062'
+    url: http://www.gutenberg.org/2009/agents/7062
+    wikipedia: http://eo.wikipedia.org/wiki/James_Charles_O%27Connor
+  - agent_name: Hayes, C. F. (Charles Frederic)
+    alias: Hayes, Charles Frederic
+    birthdate: 1857
+    deathdate: 1942
+    gutenberg_agent_id: '7063'
+    url: http://www.gutenberg.org/2009/agents/7063
+    wikipedia: http://eo.wikipedia.org/wiki/Charles_Frederic_Hayes
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2005-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16967'
+language:
+- eo
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Esperanto -- Dictionaries -- English'
+- !lcc 'PM'
+- !lcsh 'English language -- Dictionaries -- Esperanto'
+title: English-Esperanto Dictionary
+url: http://www.gutenberg.org/ebooks/16967
